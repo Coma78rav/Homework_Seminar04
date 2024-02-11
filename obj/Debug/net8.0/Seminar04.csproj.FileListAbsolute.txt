@@ -1,0 +1,15 @@
+D:\GB\CSharp\Homework\Seminar04\bin\Debug\net8.0\Seminar04.exe
+D:\GB\CSharp\Homework\Seminar04\bin\Debug\net8.0\Seminar04.deps.json
+D:\GB\CSharp\Homework\Seminar04\bin\Debug\net8.0\Seminar04.runtimeconfig.json
+D:\GB\CSharp\Homework\Seminar04\bin\Debug\net8.0\Seminar04.dll
+D:\GB\CSharp\Homework\Seminar04\bin\Debug\net8.0\Seminar04.pdb
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\Seminar04.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\Seminar04.AssemblyInfoInputs.cache
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\Seminar04.AssemblyInfo.cs
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\Seminar04.csproj.CoreCompileInputs.cache
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\Seminar04.sourcelink.json
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\Seminar04.dll
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\refint\Seminar04.dll
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\Seminar04.pdb
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\Seminar04.genruntimeconfig.cache
+D:\GB\CSharp\Homework\Seminar04\obj\Debug\net8.0\ref\Seminar04.dll
